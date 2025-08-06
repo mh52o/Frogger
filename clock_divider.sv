@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/07/2025
-// EE 271
-// Lab 6 clock_divider
+// clock_divider
 
 // Takes in a clock signal, divides the clock cycle and outputs 32
 // divided clock signals of varying frequency.

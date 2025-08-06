@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/05/2025
-// EE 271
-// Lab 6 crossy_road
+// crossy_road
 
 // This module simulates the logic for the cars running across the LED matrix using an FSM.
 // It moves each car (LED) to the right every clock cycle. 

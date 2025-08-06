@@ -1,5 +1,4 @@
-//Acknowledgement: This driver code was provided by Prof. Scott Hauck as part of his
-// EE 271 course.
+
 
 // A driver for the 16x16x2 LED display expansion board.
 // Read below for an overview of the ports.

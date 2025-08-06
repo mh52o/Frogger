@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/05/2025
-// EE 271
-// Lab 6 frog_LED_start
+// frog_LED_start
 
 // This module represents the starting point for the frogger player using an FSM
 // On reset, it automatically turns on, then it allows the player to move the LED around.

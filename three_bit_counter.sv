@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 05/22/2025
-// EE 271
-// Lab 5 three_bit_counter
+// three_bit_counter
 
 // Three_bit_counter increments a counter by 1 every time an input is true.
 // It starts at 0 and goes to 7 using binary numbers and a finite state machine.

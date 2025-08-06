@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 05/22/2025
-// EE 271
-// Lab 6 10-bit LFSR
+// 10-bit LFSR
 
 // The LFSR module implements a 10-bit Linear Feedback Shift Register (LFSR)
 //   using XNOR feedback logic. It shifts right on every clock cycle and

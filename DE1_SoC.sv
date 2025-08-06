@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/05/2025
-// EE 271
-// Lab 6 DE1_SoC
+// DE1_SoC
 
 // This module simulates a game of frogger, where the player attempts to cross a 
 // road full of crossing cars. The game is simulated on an LED matrix, and if the player

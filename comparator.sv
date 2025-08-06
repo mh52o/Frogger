@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/07/025
-// EE 271
-// Lab 6 comparator
+// comparator
 
 // Comparator takes in two inputs inputA and inputB and returns whether A is greater than B.
 // If it is less than or equal to B, returns 0, otherwise returns 1. 

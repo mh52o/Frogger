@@ -1,7 +1,6 @@
 // Morris Huang, Hudson Wong
 // 06/07/2025
-// EE 271
-// Lab 6 user_input
+//  user_input
 
 // Takes a button press that, as long as it is pressed,
 // only registers once even across multiple clock cycles.
