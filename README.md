@@ -81,7 +81,7 @@ Each module has its own testbench verifying:
 
 ---
 
-## 🔧 Build and Run Instructions
+## Build and Run Instructions
 
 1. Open your **Intel Quartus** project with a DE1-SoC setup.
 2. Add all Verilog source files:
@@ -96,7 +96,7 @@ Each module has its own testbench verifying:
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Morris Huang**
 - **Hudson Wong**
@@ -107,7 +107,7 @@ June 2025
 
 ## Repository Structure
 
-## 📂 Repository Structure
+
 
 ```text
 .
