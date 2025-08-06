@@ -20,7 +20,7 @@ A Verilog-based implementation of the classic **Frogger** game on the **DE1-SoC 
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 ```
 
@@ -42,7 +42,7 @@ A Verilog-based implementation of the classic **Frogger** game on the **DE1-SoC 
 
 ```
 
-### ✅ Core Modules
+###  Core Modules
 
 | Module          | Function                                                  |
 |-----------------|-----------------------------------------------------------|
@@ -58,7 +58,7 @@ A Verilog-based implementation of the classic **Frogger** game on the **DE1-SoC 
 
 ---
 
-## 🧪 Testbenches Included
+##  Testbenches Included
 
 Each module has its own testbench verifying:
 
@@ -71,7 +71,7 @@ Each module has its own testbench verifying:
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 - **Movement** is processed via FSMs in each grid tile.
 - **Red LEDs** represent cars spawned randomly by LFSRs and move right.
@@ -105,27 +105,27 @@ June 2025
 
 ---
 
+## Repository Structure
+
 ## 📂 Repository Structure
 
+```text
 .
-├── DE1\_SoC.sv              # Top-level module
-├── frog\_LED.sv             # FSM logic for frog tiles
-├── crossy\_road.sv          # FSM logic for moving cars
-├── user\_input.sv           # Debouncing for key inputs
-├── clock\_divider.sv        # Clock divider logic
-├── seeded\_LFSR.sv          # Random number generation
+├── DE1_SoC.sv              # Top-level module
+├── frog_LED.sv             # FSM logic for frog tiles
+├── crossy_road.sv          # FSM logic for moving cars
+├── user_input.sv           # Debouncing for key inputs
+├── clock_divider.sv        # Clock divider logic
+├── seeded_LFSR.sv          # Random number generation
 ├── comparator.sv           # LFSR threshold comparison
-├── three\_bit\_counter.sv    # Difficulty counter
+├── three_bit_counter.sv    # Difficulty counter
 ├── victory.sv              # Win/loss/reset controller
 ├── LEDDriver.sv            # 16x16 LED matrix driver
-├── \*\_testbench.sv          # Testbenches for each module
+├── *_testbench.sv          # Testbenches for each module
 └── README.md               # Project overview
 
-```
 
----
-
-## 📸 Demo 
+##  Demo 
 
 Youtube Link: https://youtu.be/Dbht3LLyhpU
 
